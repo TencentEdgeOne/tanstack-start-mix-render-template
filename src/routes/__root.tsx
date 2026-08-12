@@ -17,7 +17,15 @@ export const Route = createRootRoute({
         content: 'width=device-width, initial-scale=1',
       },
       {
-        title: 'TanStack Start Starter',
+        title: 'TanStack Start Starter | EdgeOne Makers',
+      },
+      {
+        name: 'description',
+        content: 'Demo only · EdgeOne Makers',
+      },
+      {
+        name: 'keywords',
+        content: 'EdgeOne Makers, Demo only',
       },
     ],
     links: [
